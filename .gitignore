@@ -1,0 +1,44 @@
+# Binaries
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Go workspace file
+go.work
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data directory (local testing)
+.klingon/
+/tmp/
+
+# Database files (local)
+*.db
+*.db-shm
+*.db-wal
+
+# Sensitive files
+testnet-wallets.txt
+.env
+scripts/.env
+
+# Foundry cache/artifacts
+contracts/cache/
+contracts/out/

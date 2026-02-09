@@ -1,0 +1,32 @@
+# Foundry build artifacts
+/out/
+/cache/
+
+# Dependencies (installed via forge install)
+/lib/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Broadcast logs (deployment transactions)
+/broadcast/
+
+# Documentation build
+/docs/
+
+# Coverage reports
+lcov.info
+coverage/
+
+# Gas snapshots
+.gas-snapshot
+
+# IDE
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
