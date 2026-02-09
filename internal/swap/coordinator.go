@@ -5,9 +5,9 @@ import (
 	"context"
 	"time"
 
-	"github.com/klingon-exchange/klingon-v2/internal/backend"
-	"github.com/klingon-exchange/klingon-v2/internal/wallet"
-	"github.com/klingon-exchange/klingon-v2/pkg/logging"
+	"github.com/Klingon-tech/klingdex/internal/backend"
+	"github.com/Klingon-tech/klingdex/internal/wallet"
+	"github.com/Klingon-tech/klingdex/pkg/logging"
 )
 
 // NewCoordinator creates a new swap coordinator.

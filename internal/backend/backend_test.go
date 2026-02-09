@@ -5,8 +5,8 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/klingon-exchange/klingon-v2/internal/chain"
-	"github.com/klingon-exchange/klingon-v2/pkg/helpers"
+	"github.com/Klingon-tech/klingdex/internal/chain"
+	"github.com/Klingon-tech/klingdex/pkg/helpers"
 )
 
 func TestDefaultConfigs(t *testing.T) {

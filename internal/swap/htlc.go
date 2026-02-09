@@ -10,7 +10,7 @@ import (
 
 	"github.com/btcsuite/btcd/btcec/v2"
 	btcecdsa "github.com/btcsuite/btcd/btcec/v2/ecdsa"
-	"github.com/klingon-exchange/klingon-v2/internal/chain"
+	"github.com/Klingon-tech/klingdex/internal/chain"
 )
 
 // HTLCSession manages the HTLC protocol for one chain in an atomic swap.

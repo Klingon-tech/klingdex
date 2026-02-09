@@ -14,7 +14,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/klingon-exchange/klingon-v2/pkg/helpers"
+	"github.com/Klingon-tech/klingdex/pkg/helpers"
 )
 
 // RPCType identifies the RPC protocol type.

@@ -9,9 +9,9 @@ import (
 	"sync"
 
 	"github.com/ethereum/go-ethereum/common"
-	"github.com/klingon-exchange/klingon-v2/internal/chain"
-	"github.com/klingon-exchange/klingon-v2/internal/config"
-	"github.com/klingon-exchange/klingon-v2/internal/contracts/htlc"
+	"github.com/Klingon-tech/klingdex/internal/chain"
+	"github.com/Klingon-tech/klingdex/internal/config"
+	"github.com/Klingon-tech/klingdex/internal/contracts/htlc"
 )
 
 // EVMSwapState represents the state of an EVM HTLC swap

@@ -9,11 +9,11 @@ import (
 
 	"github.com/btcsuite/btcd/btcec/v2"
 	"github.com/btcsuite/btcd/btcec/v2/schnorr/musig2"
-	"github.com/klingon-exchange/klingon-v2/internal/backend"
-	"github.com/klingon-exchange/klingon-v2/internal/chain"
-	"github.com/klingon-exchange/klingon-v2/internal/storage"
-	"github.com/klingon-exchange/klingon-v2/internal/wallet"
-	"github.com/klingon-exchange/klingon-v2/pkg/logging"
+	"github.com/Klingon-tech/klingdex/internal/backend"
+	"github.com/Klingon-tech/klingdex/internal/chain"
+	"github.com/Klingon-tech/klingdex/internal/storage"
+	"github.com/Klingon-tech/klingdex/internal/wallet"
+	"github.com/Klingon-tech/klingdex/pkg/logging"
 )
 
 // Coordinator errors

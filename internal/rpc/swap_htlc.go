@@ -7,7 +7,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/klingon-exchange/klingon-v2/internal/node"
+	"github.com/Klingon-tech/klingdex/internal/node"
 )
 
 // swapHTLCRevealSecret reveals the secret for an HTLC swap (initiator only).

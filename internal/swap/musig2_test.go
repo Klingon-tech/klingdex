@@ -5,7 +5,7 @@ import (
 
 	"github.com/btcsuite/btcd/btcec/v2"
 	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/klingon-exchange/klingon-v2/internal/chain"
+	"github.com/Klingon-tech/klingdex/internal/chain"
 )
 
 func TestNewMuSig2Session(t *testing.T) {

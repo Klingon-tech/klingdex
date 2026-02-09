@@ -5,8 +5,8 @@ import (
 	"time"
 
 	"github.com/btcsuite/btcd/btcec/v2"
-	"github.com/klingon-exchange/klingon-v2/internal/chain"
-	"github.com/klingon-exchange/klingon-v2/internal/config"
+	"github.com/Klingon-tech/klingdex/internal/chain"
+	"github.com/Klingon-tech/klingdex/internal/config"
 )
 
 func TestNewChainConfig(t *testing.T) {

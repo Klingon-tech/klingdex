@@ -12,8 +12,8 @@ import (
 	"github.com/libp2p/go-libp2p/core/network"
 	"github.com/libp2p/go-libp2p/core/peer"
 
-	"github.com/klingon-exchange/klingon-v2/internal/storage"
-	"github.com/klingon-exchange/klingon-v2/pkg/logging"
+	"github.com/Klingon-tech/klingdex/internal/storage"
+	"github.com/Klingon-tech/klingdex/pkg/logging"
 )
 
 // MessageSenderConfig configures the message sender behavior.

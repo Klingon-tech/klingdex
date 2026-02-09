@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-	"github.com/klingon-exchange/klingon-v2/pkg/logging"
+	"github.com/Klingon-tech/klingdex/pkg/logging"
 )
 
 // WebSocket configuration

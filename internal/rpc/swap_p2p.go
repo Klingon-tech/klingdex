@@ -10,8 +10,8 @@ import (
 
 	"github.com/libp2p/go-libp2p/core/peer"
 
-	"github.com/klingon-exchange/klingon-v2/internal/node"
-	"github.com/klingon-exchange/klingon-v2/internal/storage"
+	"github.com/Klingon-tech/klingdex/internal/node"
+	"github.com/Klingon-tech/klingdex/internal/storage"
 )
 
 // =============================================================================

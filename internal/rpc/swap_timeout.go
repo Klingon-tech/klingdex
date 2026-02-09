@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/klingon-exchange/klingon-v2/internal/swap"
+	"github.com/Klingon-tech/klingdex/internal/swap"
 )
 
 // swapRecover attempts to recover a swap from the database.

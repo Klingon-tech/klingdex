@@ -1,4 +1,4 @@
-module github.com/klingon-exchange/klingon-v2
+module github.com/Klingon-tech/klingdex
 
 go 1.24.0
 

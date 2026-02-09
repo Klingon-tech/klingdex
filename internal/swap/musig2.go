@@ -15,8 +15,8 @@ import (
 	"github.com/btcsuite/btcd/btcec/v2/schnorr/musig2"
 	"github.com/btcsuite/btcd/chaincfg/chainhash"
 	"github.com/btcsuite/btcd/txscript"
-	"github.com/klingon-exchange/klingon-v2/internal/chain"
-	"github.com/klingon-exchange/klingon-v2/pkg/helpers"
+	"github.com/Klingon-tech/klingdex/internal/chain"
+	"github.com/Klingon-tech/klingdex/pkg/helpers"
 )
 
 // MuSig2 errors

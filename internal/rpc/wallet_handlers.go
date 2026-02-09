@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/klingon-exchange/klingon-v2/internal/chain"
+	"github.com/Klingon-tech/klingdex/internal/chain"
 )
 
 // Note: wallet_scanBalance and wallet_getAddressWithChange handlers are registered in server.go

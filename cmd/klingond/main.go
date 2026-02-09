@@ -13,15 +13,15 @@ import (
 
 	"github.com/libp2p/go-libp2p/core/peer"
 
-	"github.com/klingon-exchange/klingon-v2/internal/backend"
-	"github.com/klingon-exchange/klingon-v2/internal/chain"
-	"github.com/klingon-exchange/klingon-v2/internal/node"
-	"github.com/klingon-exchange/klingon-v2/internal/rpc"
-	"github.com/klingon-exchange/klingon-v2/internal/storage"
-	"github.com/klingon-exchange/klingon-v2/internal/swap"
-	"github.com/klingon-exchange/klingon-v2/internal/sync"
-	"github.com/klingon-exchange/klingon-v2/internal/wallet"
-	"github.com/klingon-exchange/klingon-v2/pkg/logging"
+	"github.com/Klingon-tech/klingdex/internal/backend"
+	"github.com/Klingon-tech/klingdex/internal/chain"
+	"github.com/Klingon-tech/klingdex/internal/node"
+	"github.com/Klingon-tech/klingdex/internal/rpc"
+	"github.com/Klingon-tech/klingdex/internal/storage"
+	"github.com/Klingon-tech/klingdex/internal/swap"
+	"github.com/Klingon-tech/klingdex/internal/sync"
+	"github.com/Klingon-tech/klingdex/internal/wallet"
+	"github.com/Klingon-tech/klingdex/pkg/logging"
 )
 
 var (

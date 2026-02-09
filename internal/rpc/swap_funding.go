@@ -6,9 +6,9 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/klingon-exchange/klingon-v2/internal/node"
-	"github.com/klingon-exchange/klingon-v2/internal/storage"
-	"github.com/klingon-exchange/klingon-v2/internal/swap"
+	"github.com/Klingon-tech/klingdex/internal/node"
+	"github.com/Klingon-tech/klingdex/internal/storage"
+	"github.com/Klingon-tech/klingdex/internal/swap"
 )
 
 // swapGetAddress returns the funding address for the swap.

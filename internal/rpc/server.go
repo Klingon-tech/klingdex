@@ -10,11 +10,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/klingon-exchange/klingon-v2/internal/node"
-	"github.com/klingon-exchange/klingon-v2/internal/storage"
-	"github.com/klingon-exchange/klingon-v2/internal/swap"
-	"github.com/klingon-exchange/klingon-v2/internal/wallet"
-	"github.com/klingon-exchange/klingon-v2/pkg/logging"
+	"github.com/Klingon-tech/klingdex/internal/node"
+	"github.com/Klingon-tech/klingdex/internal/storage"
+	"github.com/Klingon-tech/klingdex/internal/swap"
+	"github.com/Klingon-tech/klingdex/internal/wallet"
+	"github.com/Klingon-tech/klingdex/pkg/logging"
 )
 
 // Server is a JSON-RPC 2.0 server.

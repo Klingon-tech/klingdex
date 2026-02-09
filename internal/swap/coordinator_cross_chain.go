@@ -9,7 +9,7 @@ import (
 
 	"github.com/btcsuite/btcd/btcec/v2"
 	"github.com/ethereum/go-ethereum/common"
-	"github.com/klingon-exchange/klingon-v2/internal/chain"
+	"github.com/Klingon-tech/klingdex/internal/chain"
 )
 
 // =============================================================================

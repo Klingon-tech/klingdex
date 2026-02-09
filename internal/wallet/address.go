@@ -9,7 +9,7 @@ import (
 	"github.com/btcsuite/btcd/btcutil/hdkeychain"
 	"github.com/btcsuite/btcd/chaincfg"
 	"github.com/btcsuite/btcd/txscript"
-	"github.com/klingon-exchange/klingon-v2/internal/chain"
+	"github.com/Klingon-tech/klingdex/internal/chain"
 )
 
 // DeriveAddressFromKey derives the appropriate address type from an HD key.

@@ -6,7 +6,7 @@ import (
 	"context"
 	"errors"
 
-	"github.com/klingon-exchange/klingon-v2/internal/chain"
+	"github.com/Klingon-tech/klingdex/internal/chain"
 )
 
 // Common errors

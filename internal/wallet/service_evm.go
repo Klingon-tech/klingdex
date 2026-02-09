@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/klingon-exchange/klingon-v2/internal/backend"
-	"github.com/klingon-exchange/klingon-v2/internal/chain"
+	"github.com/Klingon-tech/klingdex/internal/backend"
+	"github.com/Klingon-tech/klingdex/internal/chain"
 )
 
 // EVMSendResult holds the result of an EVM transaction.

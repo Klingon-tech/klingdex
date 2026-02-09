@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/klingon-exchange/klingon-v2/internal/chain"
+	"github.com/Klingon-tech/klingdex/internal/chain"
 )
 
 // Test mnemonic (DO NOT USE FOR REAL FUNDS)

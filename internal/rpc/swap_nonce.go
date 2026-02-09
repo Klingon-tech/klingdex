@@ -7,7 +7,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/klingon-exchange/klingon-v2/internal/node"
+	"github.com/Klingon-tech/klingdex/internal/node"
 )
 
 // swapExchangeNonce generates and exchanges nonces for both chains.

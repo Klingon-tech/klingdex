@@ -6,7 +6,7 @@ import (
 	"errors"
 
 	"github.com/btcsuite/btcd/btcec/v2"
-	"github.com/klingon-exchange/klingon-v2/internal/chain"
+	"github.com/Klingon-tech/klingdex/internal/chain"
 )
 
 // ErrUnsupportedMethod is returned when an unsupported swap method is requested.

@@ -7,7 +7,7 @@ import (
 	"github.com/libp2p/go-libp2p/core/peerstore"
 	"github.com/multiformats/go-multiaddr"
 
-	"github.com/klingon-exchange/klingon-v2/internal/storage"
+	"github.com/Klingon-tech/klingdex/internal/storage"
 )
 
 // PeerStoreAdapter provides persistent storage for peer information.

@@ -7,9 +7,9 @@ import (
 	"fmt"
 
 	"github.com/btcsuite/btcd/btcec/v2/schnorr"
-	"github.com/klingon-exchange/klingon-v2/internal/config"
-	"github.com/klingon-exchange/klingon-v2/internal/storage"
-	"github.com/klingon-exchange/klingon-v2/internal/swap"
+	"github.com/Klingon-tech/klingdex/internal/config"
+	"github.com/Klingon-tech/klingdex/internal/storage"
+	"github.com/Klingon-tech/klingdex/internal/swap"
 )
 
 // swapRedeem redeems funds from the counterparty's chain.
